@@ -1,0 +1,5 @@
+/Users/pipiskop/Projects/kurva/kurva/obj/Debug/net6.0/kurva.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/kurva/kurva/obj/Debug/net6.0/kurva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/kurva/kurva/obj/Debug/net6.0/kurva.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/kurva/kurva/obj/Debug/net6.0/kurva.AssemblyInfo.cs
+/Users/pipiskop/Projects/kurva/kurva/obj/Debug/net6.0/kurva.csproj.CoreCompileInputs.cache
